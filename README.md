@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @luitelrubin
-- 👀 I’m interested in web development, cybersecurity, data science
-- 🌱 I’m currently learning webdev
-- 💞️ I’m looking to collaborate on (honestly, I've no idea)
-- 📫 How to reach me ...
+- 👀 I’m interested in python and django rn.
+- 📫 Send your emails to rubinprasadluitel@gmail.com if you'd like to connect.
 
 <!---
 luitelrubin/luitelrubin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
