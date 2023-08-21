@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luitelrubin.
-- 👀 I’m interested in python and django.
-- 👀 My school is making me learn C.
+- 👀 I’m interested in python and django, and lagely HUGO.
+- 👀 My school is making me learn C and C++.
 - 📫 Send your emails to rubinprasadluitel@gmail.com if you'd like to connect.
 
 <!---
