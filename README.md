@@ -1,6 +1,6 @@
 - 👋 Hi, I am a Kathmandu based developer.
-- 👀 I like working on Data Science and AI/ML projects.
-- 👀 I am comfortable developing backend applications using Django and .NET Core.
+- 👀 My interests include Data Science and Backend development in Python.
+- 👀 I've also been brushing up on my .NET Core and React skills.
 - 📫 Send your emails to info@rubinluitel.com.np if you'd like to connect.
 
 <!---
