@@ -1,6 +1,6 @@
 - 👋 Hi, I am a Kathmandu based developer.
 - 👀 My interests include Data Science and Backend development in Python.
-- 👀 I've also been brushing up on my .NET Core and React skills.
+- 👀 I've also been brushing up my .NET Core and React skills.
 - 📫 Send your emails to info@rubinluitel.com.np if you'd like to connect.
 
 <!---
