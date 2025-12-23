@@ -1,5 +1,6 @@
 - 👋 Hi, I am a Kathmandu based developer.
 - 👀 My interests include Web development in React x Django x ASP.NET Core.
+- ✍️ I share my thoughts and reflections at rubinluitel.com.np
 - 📫 Send your emails to chief@rubinluitel.com.np if you'd like to connect.
 
 <!---
